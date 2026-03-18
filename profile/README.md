@@ -10,4 +10,4 @@ Most of the Linux stuff you will find here is based on work of [SM8150-Mainlinin
 
 ## Links
 
-[Our Telegram group](https://t.me/WaLoVayu)
+[Our Telegram group](https://t.me/woahelperchat)
